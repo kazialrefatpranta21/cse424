@@ -1,12 +1,12 @@
 
 Overleaf link
-https://www.overleaf.com/project/
+https://www.overleaf.com/read/hkrsnncfnvzv
 
 Link to unlisted YouTube video:
 https://youtube.com/
 
 Public link to the slide:
-https://docs.google.com/presentation
+https://docs.google.com/presentation/d/15n97G1BkhKLDaf7fQSr989zA1HeRYeKio6zRrYscHN8/edit?usp=sharing
 
 Project title: 
 Development of an OCR-Based System for Reading Text in Dull Conditions
