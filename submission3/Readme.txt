@@ -3,7 +3,7 @@ https://youtube.com/.....
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/kazialrefatpranta21/cse424/blob/main/submission3/cse424%20%20Group%2010.pdf
 Native/original format: 
 https://draw.io/...
 
@@ -18,7 +18,7 @@ Link to the book:
 https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html
 
 Link to the book chapter:
-https://books.google.com/books...
+https://www.google.com.bd/books/edition/_/ttJkAwAAQBAJ?hl=en&gbpv=1&pg=PP228&dq=UnderstandingMachineLearning
 
 
 Group Number:
