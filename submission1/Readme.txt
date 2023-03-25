@@ -3,7 +3,7 @@ Overleaf link
 https://www.overleaf.com/read/ssgzwndfpncp
 
 Link to unlisted YouTube video:
-https://youtu.be/X9wAg1NeyVQ
+https://www.youtube.com/watch?v=_MCIVY7c85A
 
 Public link to the slide:
 https://docs.google.com/presentation/d/15n97G1BkhKLDaf7fQSr989zA1HeRYeKio6zRrYscHN8/edit?usp=sharing
