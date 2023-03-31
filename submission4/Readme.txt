@@ -2,7 +2,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/ssgzwndfpncp
 
 Unlisted YouTube video:
-http://youtube....
+https://www.youtube.com/watch?v=dl1QKfums5c
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
@@ -11,7 +11,7 @@ Paper title:
 Development of an OCR-Based System for Reading Text in Dull Conditions
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://github.com/kazialrefatpranta21/cse424/blob/main/submission4/Spring_2023___Development_of_an_OCR_Based_System_for_Reading_Text_in_Dull_Conditions.pdf
 
 Paper submission date (to workshop/conference):
 
