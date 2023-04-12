@@ -11,7 +11,7 @@ Paper title:
 Development of an OCR-Based System for Reading Text in Dull Conditions
 
 Paper presentation (anyone can view without login):
-https://github.com/kazialrefatpranta21/cse424/blob/main/submission4/Spring_2023___Development_of_an_OCR_Based_System_for_Reading_Text_in_Dull_Conditions.pdf
+https://github.com/kazialrefatpranta21/cse424/blob/main/submission5/Spring_2023___Development_of_an_OCR_Based_System_for_Reading_Text_in_Dull_Conditions%20(2).pdf
 
 Paper submission date (to workshop/conference):
 
