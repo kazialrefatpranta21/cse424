@@ -1,12 +1,13 @@
-webofscienceacademy course using email
+Completed webofscienceacademy course using email
 kazi.al.refat.pranta@g.bracu.ac.bd
 https://webofscienceacademy.clarivate.com/learn/course/158/mentoring-in-peer-review-no-assignment
 https://webofscienceacademy.clarivate.com/learn/course/114/good-citation-behavior
 https://webofscienceacademy.clarivate.com/learn/course/159/co-reviewing-with-a-mentor-no-assignment
 
-Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
+Completed coursera course using email
+kazi.al.refat.pranta@g.bracu.ac.bd
+https://www.coursera.org/learn/machine-learning-course
+https://www.coursera.org/learn/neural-networks-deep-learning/
 
 completed youtube video:
 https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
