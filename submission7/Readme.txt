@@ -24,7 +24,7 @@ Conference Name:
 2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC)
 
 Conference URL:
-http://confsite/...
+https://r10htc2023.org/
 
 Group Number:
 10
